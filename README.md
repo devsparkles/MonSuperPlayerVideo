@@ -33,7 +33,7 @@ L'objectif est de créer un système où l'interface du lecteur est définie par
   ```json
   {
     "layout": {
-      "type": "Box", // ou Column, Row
+      "type": "Box",
       "children": [
         {
           "type": "Button",
